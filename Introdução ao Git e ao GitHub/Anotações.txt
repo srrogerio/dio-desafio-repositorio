@@ -1,0 +1,16 @@
+* Link para download do Git: https://git-scm.com/downloads
+
+* O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+## Verificando os Status de Seus Arquivos
+   A principal ferramenta que você vai usar para determinar quais arquivos estão em qual estado é o comando git status 
+   O comando git status exibe as condições do diretório de trabalho e da área de staging
+   Os resultados de status não exibem qualquer informação sobre o histórico de projetos que recebeu commit. Para tal, 
+   você precisa usar o git log.
+   
+   
+## Rastreando Arquivos Novos
+   Para começar a rastrear um novo arquivo, você deve usar o comando git add 
+   Para começar a rastrear o arquivo README, você deve executar o seguinte: $ git add README
+   Para adicionar todos os arquivos você deve executar o seguinte: $ git add .
+   
