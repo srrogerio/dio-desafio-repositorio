@@ -1,4 +1,4 @@
-- Link para download do Git: https://git-scm.com/downloads
+- [Link para download do Git](https://git-scm.com/downloads)
 
 - O Git Bash é um terminal extendido para otimizar o uso do Git.
 
@@ -10,7 +10,7 @@
 
 # **Git na prática: comandos**
 
-[Fonte: Blog CedroTech](https://blog.cedrotech.com/git-o-minimo-que-voce-precisa-saber-para-trabalhar-em-equipe-parte-2)
+[Fonte: Blog Cedro](https://blog.cedrotech.com/git-o-minimo-que-voce-precisa-saber-para-trabalhar-em-equipe-parte-2)
 
 ## Git init
 
