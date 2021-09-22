@@ -10,8 +10,7 @@
 
 # **Git na prática: comandos**
 
-[fonte:]
-(https://blog.cedrotech.com/git-o-minimo-que-voce-precisa-saber-para-trabalhar-em-equipe-parte-2 "Visite a fonte do artigo!!")
+[Fonte: Blog CedroTech](https://blog.cedrotech.com/git-o-minimo-que-voce-precisa-saber-para-trabalhar-em-equipe-parte-2)
 
 ## Git init
 
